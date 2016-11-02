@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+body{
+  background: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/sayagata-400px.png');
+}
+h1 {
+  color: Black;
+  font-family: 'Coiny', cursive;
+  text-align: center;
+  display: inline;
+  margin: 20%;
+
+}
+h1 div{
+  display: inline;
+
+}
+
+h2{
+  text-align: center;
+
+
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  border-radius: 35px;
+  margin: 10px;
+  /*display: inline-block;*/
+  float: left;
+  opacity: .7;
+
+
+
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.purple{
+  background-color: purple;
+}
+.green{
+  background-color: green;
+}
+.Red{
+  color: red;
+}
+.Blue{
+  color: blue;
+}
+.Purple{
+  color: purple;
+}
+.Green{
+  color: green;
+}
+#red{
+  color: red;
+}
